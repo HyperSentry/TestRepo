@@ -1,0 +1,18 @@
+{
+  "name": "demo-app",
+  "version": "1.0.0",
+  "description": "Demo application with vulnerabilities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Tests passed'"
+  },
+  "dependencies": {
+    "lodash": "4.17.19",
+    "axios": "^0.21.0",
+    "express": "~4.16.0",
+    "minimist": "^1.2.0"
+  },
+  "devDependencies": {
+    "jest": "latest"
+  }
+}
